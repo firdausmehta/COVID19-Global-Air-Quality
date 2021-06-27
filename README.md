@@ -1,8 +1,8 @@
-#Project Outline
+Project Outline
 
 Our study is focused on identifying a correlation between developments in Covid-19 active cases and the changes seen in air quality across the world. We will examine and visualise the air quality against the number of active Covid-19 cases in major cities around the globe, as well as 2 key cities in Australia from 2019 to 2020.
 
-##Hypothesis
+Hypothesis
 
 We expect to observe a strong, negative correlation between the number of Covid-19 active cases and the level of air quality, with more drastic improvements in air quality during the pandemic.
 
