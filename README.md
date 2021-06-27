@@ -1,16 +1,18 @@
-# Monash-Data-Boot-Camp-Project-1
-Monash Data Boot Camp Project 1
+# Project Outline
+Our study is focused on identifying a correlation between developments in Covid-19 active cases and the changes seen in air quality across the world. We will examine and visualise the air quality against the number of active Covid-19 cases in major cities around the globe, as well as 2 key cities in Australia from 2019 to 2020.
 
-Air quality in our dataset is determined by the median level concentrations of various major air
-pollutants, of which we will focus on two:
+# Hypothesis
+We expect to observe a strong, negative correlation between the number of Covid-19 active cases and the level of air quality, with more drastic improvements in air quality during the pandemic.
 
-1. Carbon Monoxide (CO) 
-- Colorless/odorless gas
-- Originates from vehicle exhaust and burning fossil fuels
-- CO concentration measured through Parts Per Million (PPM)
 
-2. Particulate Matter 2.5 (PM2.5)
-- Originates from natural sources such as bush fires or mining
-- PM2.5 concentration is measured through microgram per cubic metre (µg/m3)
+# Questions
+- How do the changes in Australia’s air quality during the pandemic compare to the changes globally in the same time period? Firdaus
+- Compare and contrast 5 major cities and their variation in air quality from 2019 to 2020? Chao
+- Are the changes in the number of Covid-19 active cases correlated to the changes observed in Australia’s air quality in 2020?- Litesh
 
-We used https://katestone.global/air-quality-covid-19-update2/ and https://learn.kaiterra.com/en/air-academy/how-does-the-laser-egg-measure-pm2.5#:~:text=How%20Is%20PM2.,express%20the%20amount%20of%20PM2. to help narrow this down.
+# Data Sources
+- https://aqicn.org/data-platform/covid19/
+- https://covid19api.com/
+- https://www.kaggle.com/imdevskp/corona-virus-report
+- https://learn.kaiterra.com/en/air-academy/how-doesthelasereggmeasurepm2.5#:~:text=How%20Is%20PM2.,express%20the%20amount%20of%20PM2.
+- https://katestone.global/air-quality-covid-19-update2/
