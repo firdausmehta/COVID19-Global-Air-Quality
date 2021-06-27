@@ -6,17 +6,13 @@ We expect to observe a strong, negative correlation between the number of Covid-
 
 
 # Questions
-How do the changes in Australia’s air quality during the pandemic compare to the changes globally in the same time period? -Firdaus
-Select 5 cities to compare, which city has the greatest air quality variation between 2019 and 2020? - Chao
-Are the changes in the number of Covid-19 active cases correlated to the changes observed in Australia’s air quality in 2020?- Litesh
+- How do the changes in Australia’s air quality during the pandemic compare to the changes globally in the same time period? Firdaus
+- Compare and contrast 5 major cities and their variation in air quality from 2019 to 2020? Chao
+- Are the changes in the number of Covid-19 active cases correlated to the changes observed in Australia’s air quality in 2020?- Litesh
 
 # Data Sources
 - https://aqicn.org/data-platform/covid19/
-
 - https://covid19api.com/
-
 - https://www.kaggle.com/imdevskp/corona-virus-report
-
 - https://learn.kaiterra.com/en/air-academy/how-doesthelasereggmeasurepm2.5#:~:text=How%20Is%20PM2.,express%20the%20amount%20of%20PM2.
-
 - https://katestone.global/air-quality-covid-19-update2/
