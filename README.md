@@ -20,7 +20,17 @@ pollutants, of which we will focus on two:
 We used https://katestone.global/air-quality-covid-19-update2/ and https://learn.kaiterra.com/en/air-academy/how-does-the-laser-egg-measure-pm2.5#:~:text=How%20Is%20PM2.,express%20the%20amount%20of%20PM2. to help narrow this down.
 >>>>>>> 7047cb262fbde6a50b12b2ba3a0dec4e8468de98
 
-Covid Tracking
-Endpoint https://www.kaggle.com/imdevskp/corona-virus-report
+Covid Tracking:
 
+https://www.kaggle.com/imdevskp/corona-virus-report
+
+Dates of comparison 01/2020 to 07/2020
+187 Countries
 Total Covid Cases per country
+Total recovered per country 
+Total mortality rate per country
+Total world numbers
+Total mean of mortality rate
+Total mean of recovery rate
+
+
