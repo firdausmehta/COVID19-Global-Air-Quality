@@ -16,3 +16,12 @@ We expect to observe a strong, negative correlation between the number of Covid-
 - https://www.kaggle.com/imdevskp/corona-virus-report
 - https://learn.kaiterra.com/en/air-academy/how-doesthelasereggmeasurepm2.5#:~:text=How%20Is%20PM2.,express%20the%20amount%20of%20PM2.
 - https://katestone.global/air-quality-covid-19-update2/
+
+# Visualisations
+![Picture1](https://user-images.githubusercontent.com/80393628/131208561-f5cd1c94-79cf-440a-9a76-a9f29fd8bc7d.png)
+
+![Picture4](https://user-images.githubusercontent.com/80393628/131208589-52778d64-2f04-4faf-9bf5-7435ee64fce2.png) ![Picture3](https://user-images.githubusercontent.com/80393628/131208594-64a4f0eb-db36-422b-a976-65c7fca360f6.png)
+
+![Picture5](https://user-images.githubusercontent.com/80393628/131208616-0e69bf1d-a89e-4d4a-9f08-460f3939c4f1.png)  ![Picture6](https://user-images.githubusercontent.com/80393628/131208619-6f8a6d51-a3e7-42d9-92e5-50c844b68d7f.png)
+
+
